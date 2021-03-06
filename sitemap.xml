@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://eddycjy.com/posts/</loc>
+    <lastmod>2021-03-04T23:54:30+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eddycjy.com/</loc>
+    <lastmod>2021-03-04T23:54:30+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eddycjy.com/tags/</loc>
+    <lastmod>2021-03-04T23:54:30+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eddycjy.com/posts/gossip/%E4%B9%9F%E8%B0%88%E7%BC%96%E7%A8%8B/</loc>
+    <lastmod>2021-03-04T23:54:30+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eddycjy.com/tags/%E6%9D%82%E8%B0%88/</loc>
+    <lastmod>2021-03-04T23:54:30+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eddycjy.com/about/</loc>
+    <lastmod>2021-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>
