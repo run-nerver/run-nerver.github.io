@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sailor0913</title>
-    <link>https://lovehxy.com/</link>
+    <link>https://www.lovehxy.com/</link>
     <description>Recent content on Sailor0913</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hans</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Thu, 04 Mar 2021 23:54:30 +0800</lastBuildDate>
     
-	<atom:link href="https://lovehxy.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.lovehxy.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>也谈编程</title>
-      <link>https://lovehxy.com/posts/gossip/%E4%B9%9F%E8%B0%88%E7%BC%96%E7%A8%8B/</link>
+      <link>https://www.lovehxy.com/posts/gossip/%E4%B9%9F%E8%B0%88%E7%BC%96%E7%A8%8B/</link>
       <pubDate>Thu, 04 Mar 2021 23:54:30 +0800</pubDate>
       
-      <guid>https://lovehxy.com/posts/gossip/%E4%B9%9F%E8%B0%88%E7%BC%96%E7%A8%8B/</guid>
+      <guid>https://www.lovehxy.com/posts/gossip/%E4%B9%9F%E8%B0%88%E7%BC%96%E7%A8%8B/</guid>
       <description>很多人学习编程都会遇到一个老生常谈的问题就是：感觉老师讲的都能听懂，看官方文档也都觉得都懂。但是一旦开始写项目或者完成一个上司交待的任务就马上不会了。
  背后的原因相信大部分人都知道：看的太多，敲的太少。
  但今天我想说的是我相信世界上没有差的老师，也没有差的学生。只是看你们是否合适对方。
@@ -36,10 +36,10 @@
     
     <item>
       <title>关于</title>
-      <link>https://lovehxy.com/about/</link>
+      <link>https://www.lovehxy.com/about/</link>
       <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://lovehxy.com/about/</guid>
+      <guid>https://www.lovehxy.com/about/</guid>
       <description>你好，我是Sailor0913，高龄代码爱好者（35+）。
 座右铭： 佛系敲代码，让头发多一点
 爱好  敲代码 读书 运动（足球、篮球、排球&amp;hellip;）  联系方式：  Github：https://github.com/run-nerver 邮箱：sailor0913@qq.com  </description>
